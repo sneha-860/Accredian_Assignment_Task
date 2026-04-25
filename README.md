@@ -1,11 +1,11 @@
-# Accredian Enterprise Portal 🚀
+# Accredian Enterprise Portal 
 
 A high-fidelity, executive-grade landing page clone for **Accredian Enterprise**, built with a focus on modern web aesthetics, performance, and professional-grade UI/UX.
 
-## 💎 Project Overview
+##  Project Overview
 This portal is designed to communicate authority and technical sophistication for B2B enterprise training. It features a modular, section-based architecture that delivers a seamless, responsive experience across all device breakpoints.
 
-## ✨ Core Features
+##  Core Features
 
 - **Executive Hero Architecture**: A clean, minimalist mosaic grid showcasing high-level strategic metrics and brand authority.
 - **Dynamic Success Stories**: A state-managed, touch-safe testimonial slider with SSR-safe hydration guards and responsive layout logic.
@@ -15,7 +15,7 @@ This portal is designed to communicate authority and technical sophistication fo
 - **Global Impact Metrics**: A visually anchored dashboard section highlighting 500+ corporate partnerships and 10k+ trained professionals.
 - **Premium UI Polish**: Includes custom scrollbars, atmospheric glassmorphism, floating dashboard mockups, and sophisticated typographic tracking.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Framework**: [Next.js 15+](https://nextjs.org/) (App Router)
 - **Styling**: [Tailwind CSS v4](https://tailwindcss.com/)
@@ -23,7 +23,7 @@ This portal is designed to communicate authority and technical sophistication fo
 - **Animations**: Custom Tailwind-based keyframes (float, fade-in, pulse)
 - **State Management**: React Hooks (useState, useEffect) for slider and form logic
 
-## 📦 Installation & Setup
+##  Installation & Setup
 
 1. **Clone the repository**:
    ```bash
@@ -42,7 +42,7 @@ This portal is designed to communicate authority and technical sophistication fo
 
 4. **Navigate to**: `http://localhost:3000`
 
-## 🏗️ Architecture
+##  Architecture
 
 The project follows a **Modular Section-Based Architecture**:
 
